@@ -1,0 +1,7 @@
+  npm install react-router-dom@5.2.0
+  npm install react-scripts@3.4.1
+  npm install react-dom@16.13.1
+  npm install moment@2.29.0
+  npm install braintree-web-drop-in-react@1.2.1
+  npm install axios@0.20.0
+  npm install react-scripts@3.4.1

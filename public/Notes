@@ -1,0 +1,45 @@
+## Loginsignup Form:
+<div space-y-4
+
+<div f  inset-0 top-0 z20 op-50
+-
+<section f inset-0 my-8 flex i-start j-center
+<div w-3/5 relative space-y-4 p-6 bg
+{}
+<div  t-cen mb >Register<
+<form space-y-4
+
+<div flex flex-col
+<label  htmlFor span ml-1>*<
+<input py-2 px-4 error? border foc:out-none
+onChange={(e)=>{}
+value={data.name}
+
+<div flex justify-between items-center
+<input type="checkbox" id="rememberMe" 
+  foc:N mr <label <span
+<a href="/"</a>
+<div onClick={(e)=formSubmit()}
+style={{background: "#303031"}}
+
+const formSubmit =async ()=>{
+    setData(
+...Data,loading:false)
+    pass!==cpass?return setData(error:{pass,cpass})
+    res = await axios.post({data.}).data
+is(res.error){Dataset}
+is(res.success){Dataset({success:responceData.success})}
+
+
+onChange=(e)={...data,error={},
+success=false,loading=false,passwor:}
+
+
+## navbar:
+display:grid
+grid-template-columns:2fr 1fr 
+<F>
+<div f w-full t-0
+<div py-6 px-4 lg:px-8 grid grid-col-3 lg:grid-col-4  ></div>
+<div flex justify-between text-
+   -<div 
