@@ -1,0 +1,3 @@
+multi users, multi vendors
+- multi users: patients with photos, Are shown or not shown, the vendors options are shown after photos uploading.
+- multi vendors: hospitals with profiles and list, they reach patients.
