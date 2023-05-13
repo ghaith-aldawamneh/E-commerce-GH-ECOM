@@ -68,6 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 ### An example from the API CODE (Getting the admin role):
+we get the id for the body, then search for the role in the database of MongoDB, then set role by res.json ({role:})
 ```ts
   async isAdmin(req, res) {
     let { loggedInUserId } = req.body;
@@ -78,4 +79,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
       res.status(404);
     }
 ```
-we get the id for the body, then search for the role in the database of MongoDB, then set role by res.json ({role:})
+
