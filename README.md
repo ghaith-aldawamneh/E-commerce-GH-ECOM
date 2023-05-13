@@ -73,6 +73,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 we get the id for the body, then search for the role in the database of MongoDB, then set role by res.json ({role:})
+      ```ts
+      .populate("pCategory", "_id cName")
+        .sort({ _id: -1 });
+        ```
 ```ts
   async isAdmin(req, res) {
     let { loggedInUserId } = req.body;
