@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![ecom_1](/ecom_1.png)
-![ecom_2](/ecom_2.png)
+![ecomm_1](/ecomm_1.png)
+![ecomm_2](/ecomm_2.png)
 
 ## Available Scripts
 
