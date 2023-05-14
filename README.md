@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![ecom_1](/ecom_1.png)
+![ecom_2](/ecom_2.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
